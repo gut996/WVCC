@@ -1,4 +1,4 @@
-## [West Vancouver Cricket Club Beta Version](https://sachiko1995.github.io/CricketWestVan/index.html)
+## [West Vancouver Cricket Club Live](http://www.westvancouvercricketclub.ca/)
 
 ### Author - "Ion Gutu and collaborators"
 
